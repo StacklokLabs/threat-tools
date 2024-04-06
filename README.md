@@ -2,8 +2,8 @@
 
 ## What is this?
 
-This is a collection of tools that can be used with have used to help identify
-and deal with the clean up of various attacks discovered by Stackers.
+This is a collection of tools that we have used with to help identify and deal
+with the clean up or reporting of various attacks discovered by Stackers.
 
 ## Tools
 
